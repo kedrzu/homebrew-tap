@@ -1,8 +1,8 @@
 # Rendered by scripts/cask.sh into kedrzu/homebrew-tap's Casks/leukocyte.rb; edit the template, not
 # the tap.
 cask "leukocyte" do
-  version "0.2.0"
-  sha256 "d34976b57a362ce8da60f82819c8be3a5b3de79bc71514a04ef6d5ae6640bb8c"
+  version "0.2.1"
+  sha256 "aa320d6799d92c43a532bc0c4d26fd38d73c399cca34b2dd18095ac6b28d8495"
 
   url "https://github.com/kedrzu/leukocyte/releases/download/v#{version}/Leukocyte-#{version}.zip"
   name "leukocyte"
